@@ -3,6 +3,8 @@ This Python Code Automate email sending using speech recognition. Converts speec
 # Clone the repository
 git clone https://github.com/Devansh-Khetarpal/Automation_OF_Emails_Python_Project.git
 # To run the code 
--Simple clone the repository.
+-Simply clone the repository.
+
 -Install the requirements.txt file (pip install -r requirements.txt)
+
 -Run the code.
